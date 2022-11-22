@@ -369,3 +369,21 @@ body {
     }
   }
 }
+@media(max-width: 480px){
+  .cart__item{
+    display: block;
+    margin-left: 10px;
+  }
+  .header__logo{
+    display: block;
+  }
+}
+@media(max-width: 360px){
+  .cart__item{
+    display: block;
+    margin-left: 10px;
+  }
+  .header__logo{
+    display: block;
+  }
+}
